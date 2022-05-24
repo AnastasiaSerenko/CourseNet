@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolygonPerimetr", "ConsoleApp1\PolygonPerimetr.csproj", "{E20AAFD9-615B-4278-A1FD-09245C247771}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeDimensionalShapes", "ConsoleApp2\ThreeDimensionalShapes.csproj", "{44653256-7F3A-445D-900F-A1AB531AE705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonPerimetrTests", "PolygonPerimetrTests\PolygonPerimetrTests.csproj", "{15A7FE5C-65FA-4428-B47D-5A43D482DCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDimensionalShapesTests", "ThreeDimensionalShapesTests\ThreeDimensionalShapesTests.csproj", "{8D81C26C-3397-4920-B214-44D5A2930BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20AAFD9-615B-4278-A1FD-09245C247771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20AAFD9-615B-4278-A1FD-09245C247771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20AAFD9-615B-4278-A1FD-09245C247771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20AAFD9-615B-4278-A1FD-09245C247771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44653256-7F3A-445D-900F-A1AB531AE705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44653256-7F3A-445D-900F-A1AB531AE705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44653256-7F3A-445D-900F-A1AB531AE705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44653256-7F3A-445D-900F-A1AB531AE705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A7FE5C-65FA-4428-B47D-5A43D482DCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A7FE5C-65FA-4428-B47D-5A43D482DCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A7FE5C-65FA-4428-B47D-5A43D482DCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A7FE5C-65FA-4428-B47D-5A43D482DCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D81C26C-3397-4920-B214-44D5A2930BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D81C26C-3397-4920-B214-44D5A2930BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D81C26C-3397-4920-B214-44D5A2930BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D81C26C-3397-4920-B214-44D5A2930BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30C76E34-963B-47B9-BA31-3951D55739A3}
+	EndGlobalSection
+EndGlobal
