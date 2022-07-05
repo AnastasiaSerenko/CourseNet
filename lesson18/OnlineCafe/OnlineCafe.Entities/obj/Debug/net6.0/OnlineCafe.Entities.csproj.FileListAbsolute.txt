@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\bin\Debug\net6.0\OnlineCafe.Entities.deps.json
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\bin\Debug\net6.0\OnlineCafe.Entities.dll
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\bin\Debug\net6.0\OnlineCafe.Entities.pdb
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\OnlineCafe.Entities.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\OnlineCafe.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\OnlineCafe.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\OnlineCafe.Entities.AssemblyInfo.cs
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\OnlineCafe.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\OnlineCafe.Entities.dll
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\refint\OnlineCafe.Entities.dll
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\OnlineCafe.Entities.pdb
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Entities\obj\Debug\net6.0\ref\OnlineCafe.Entities.dll

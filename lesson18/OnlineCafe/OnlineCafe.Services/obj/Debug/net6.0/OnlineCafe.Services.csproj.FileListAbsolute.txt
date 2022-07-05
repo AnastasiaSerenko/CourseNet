@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\bin\Debug\net6.0\OnlineCafe.Services.deps.json
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\bin\Debug\net6.0\OnlineCafe.Services.dll
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\bin\Debug\net6.0\OnlineCafe.Services.pdb
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\bin\Debug\net6.0\OnlineCafe.DB.dll
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\bin\Debug\net6.0\OnlineCafe.Entities.dll
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\bin\Debug\net6.0\OnlineCafe.DB.pdb
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\bin\Debug\net6.0\OnlineCafe.Entities.pdb
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\OnlineCafe.Services.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\OnlineCafe.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\OnlineCafe.Services.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\OnlineCafe.Services.AssemblyInfo.cs
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\OnlineCafe.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\OnlineCafe.Services.csproj.CopyComplete
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\OnlineCafe.Services.dll
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\refint\OnlineCafe.Services.dll
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\OnlineCafe.Services.pdb
+C:\Users\user\Desktop\CourseNet\ExamProject\OnlineCafe\OnlineCafe.Services\obj\Debug\net6.0\ref\OnlineCafe.Services.dll
